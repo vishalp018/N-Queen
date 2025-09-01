@@ -5,6 +5,7 @@
 - This algorithm is designed using recursion.
 - this will hepl people
 - to understand the n queeen algo
+- noneee
 
 ![N-Queen-visualisation](visualisation.gif)
 
